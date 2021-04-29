@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/vilas-m/twitter-dashboard/static/js/main.e571fd84.chunk.js",
-    "main.js.map": "/vilas-m/twitter-dashboard/static/js/main.e571fd84.chunk.js.map",
-    "runtime-main.js": "/vilas-m/twitter-dashboard/static/js/runtime-main.b4a7d92a.js",
-    "runtime-main.js.map": "/vilas-m/twitter-dashboard/static/js/runtime-main.b4a7d92a.js.map",
-    "static/js/2.21b434f4.chunk.js": "/vilas-m/twitter-dashboard/static/js/2.21b434f4.chunk.js",
-    "static/js/2.21b434f4.chunk.js.map": "/vilas-m/twitter-dashboard/static/js/2.21b434f4.chunk.js.map",
-    "static/js/3.6ff6957d.chunk.js": "/vilas-m/twitter-dashboard/static/js/3.6ff6957d.chunk.js",
-    "static/js/3.6ff6957d.chunk.js.map": "/vilas-m/twitter-dashboard/static/js/3.6ff6957d.chunk.js.map",
+    "main.css": "/vilas-m/twitter-dashboard/static/css/main.337b01c0.chunk.css",
+    "main.js": "/vilas-m/twitter-dashboard/static/js/main.91b4a084.chunk.js",
+    "main.js.map": "/vilas-m/twitter-dashboard/static/js/main.91b4a084.chunk.js.map",
+    "runtime-main.js": "/vilas-m/twitter-dashboard/static/js/runtime-main.3a180a0b.js",
+    "runtime-main.js.map": "/vilas-m/twitter-dashboard/static/js/runtime-main.3a180a0b.js.map",
+    "static/js/2.2f597818.chunk.js": "/vilas-m/twitter-dashboard/static/js/2.2f597818.chunk.js",
+    "static/js/2.2f597818.chunk.js.map": "/vilas-m/twitter-dashboard/static/js/2.2f597818.chunk.js.map",
+    "static/js/3.dfea1fe9.chunk.js": "/vilas-m/twitter-dashboard/static/js/3.dfea1fe9.chunk.js",
+    "static/js/3.dfea1fe9.chunk.js.map": "/vilas-m/twitter-dashboard/static/js/3.dfea1fe9.chunk.js.map",
     "index.html": "/vilas-m/twitter-dashboard/index.html",
-    "static/js/2.21b434f4.chunk.js.LICENSE.txt": "/vilas-m/twitter-dashboard/static/js/2.21b434f4.chunk.js.LICENSE.txt"
+    "static/css/main.337b01c0.chunk.css.map": "/vilas-m/twitter-dashboard/static/css/main.337b01c0.chunk.css.map",
+    "static/js/2.2f597818.chunk.js.LICENSE.txt": "/vilas-m/twitter-dashboard/static/js/2.2f597818.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4a7d92a.js",
-    "static/js/2.21b434f4.chunk.js",
-    "static/js/main.e571fd84.chunk.js"
+    "static/js/runtime-main.3a180a0b.js",
+    "static/js/2.2f597818.chunk.js",
+    "static/css/main.337b01c0.chunk.css",
+    "static/js/main.91b4a084.chunk.js"
   ]
 }
