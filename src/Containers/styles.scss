@@ -56,7 +56,6 @@ $background: #bfbfbf;
 .l-content-2 {
   @extend %border;
   height: 13%;
-
   width: $full-width;
 }
 
@@ -72,4 +71,10 @@ $background: #bfbfbf;
   height: 45%;
 
   width: $full-width;
+}
+
+.numbers {
+  @extend %flex-row;
+  justify-content: space-between;
+  text-align: center;
 }
