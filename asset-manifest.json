@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/twitter-dashboard/static/css/main.337b01c0.chunk.css",
-    "main.js": "/twitter-dashboard/static/js/main.8f565eb6.chunk.js",
-    "main.js.map": "/twitter-dashboard/static/js/main.8f565eb6.chunk.js.map",
-    "runtime-main.js": "/twitter-dashboard/static/js/runtime-main.2cd5e6a0.js",
-    "runtime-main.js.map": "/twitter-dashboard/static/js/runtime-main.2cd5e6a0.js.map",
-    "static/js/2.a47f1c7f.chunk.js": "/twitter-dashboard/static/js/2.a47f1c7f.chunk.js",
-    "static/js/2.a47f1c7f.chunk.js.map": "/twitter-dashboard/static/js/2.a47f1c7f.chunk.js.map",
-    "static/js/3.f315e5f3.chunk.js": "/twitter-dashboard/static/js/3.f315e5f3.chunk.js",
-    "static/js/3.f315e5f3.chunk.js.map": "/twitter-dashboard/static/js/3.f315e5f3.chunk.js.map",
+    "main.css": "/twitter-dashboard/static/css/main.5d6ca798.chunk.css",
+    "main.js": "/twitter-dashboard/static/js/main.7130fb7a.chunk.js",
+    "main.js.map": "/twitter-dashboard/static/js/main.7130fb7a.chunk.js.map",
+    "runtime-main.js": "/twitter-dashboard/static/js/runtime-main.2ce10624.js",
+    "runtime-main.js.map": "/twitter-dashboard/static/js/runtime-main.2ce10624.js.map",
+    "static/js/2.d9e5be3b.chunk.js": "/twitter-dashboard/static/js/2.d9e5be3b.chunk.js",
+    "static/js/2.d9e5be3b.chunk.js.map": "/twitter-dashboard/static/js/2.d9e5be3b.chunk.js.map",
+    "static/js/3.1feae0e7.chunk.js": "/twitter-dashboard/static/js/3.1feae0e7.chunk.js",
+    "static/js/3.1feae0e7.chunk.js.map": "/twitter-dashboard/static/js/3.1feae0e7.chunk.js.map",
     "index.html": "/twitter-dashboard/index.html",
-    "static/css/main.337b01c0.chunk.css.map": "/twitter-dashboard/static/css/main.337b01c0.chunk.css.map",
-    "static/js/2.a47f1c7f.chunk.js.LICENSE.txt": "/twitter-dashboard/static/js/2.a47f1c7f.chunk.js.LICENSE.txt"
+    "static/css/main.5d6ca798.chunk.css.map": "/twitter-dashboard/static/css/main.5d6ca798.chunk.css.map",
+    "static/js/2.d9e5be3b.chunk.js.LICENSE.txt": "/twitter-dashboard/static/js/2.d9e5be3b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2cd5e6a0.js",
-    "static/js/2.a47f1c7f.chunk.js",
-    "static/css/main.337b01c0.chunk.css",
-    "static/js/main.8f565eb6.chunk.js"
+    "static/js/runtime-main.2ce10624.js",
+    "static/js/2.d9e5be3b.chunk.js",
+    "static/css/main.5d6ca798.chunk.css",
+    "static/js/main.7130fb7a.chunk.js"
   ]
 }
