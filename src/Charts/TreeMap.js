@@ -12,7 +12,7 @@ const TreeMap = () => {
 
     let margin = { top: 10, right: 10, bottom: 10, left: 10 };
     let width = 640;
-    let height = 270;
+    let height = 250;
     let max = d3.max(data, (d) => d.value);
     let min = d3.min(data, (d) => d.value);
 
@@ -94,7 +94,7 @@ const TreeMap = () => {
       .attr("fill", "black");
   };
 
-  return <div id="treemap"></div>;
+  return <div id="treemap">What type of group my tweets belong to?</div>;
 };
 
 export default TreeMap;

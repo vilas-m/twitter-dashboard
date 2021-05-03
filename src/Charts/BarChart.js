@@ -11,7 +11,7 @@ export default function BarChart() {
 
     let margin = { left: 30, bottom: 60, right: 10, top: 10 };
     let width = 600;
-    let height = 120;
+    let height = 100;
 
     let data = [
       { month: "2019-Jan", tweets: 9 },
@@ -90,5 +90,9 @@ export default function BarChart() {
       .attr("fill", (d) => myColor(d.tweets));
   };
 
-  return <div id="bar_chart" className="chart"></div>;
+  return (
+    <div id="bar_chart" className="chart">
+      How Many tweets I post over time?
+    </div>
+  );
 }

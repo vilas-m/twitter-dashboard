@@ -36,7 +36,7 @@ $background: #bfbfbf;
 }
 
 %border {
-  border: 1px solid grey;
+  border: 0px solid grey;
   border-radius: 5px;
 }
 
@@ -44,6 +44,19 @@ $background: #bfbfbf;
   @extend %space;
   @extend %flex-row;
   @extend %border;
+}
+
+.labels {
+  @extend %flex-column;
+}
+
+.small-label {
+  font-size: 1vw;
+  color: #bfbfbf;
+}
+.big-label {
+  font-size: 3vw;
+  color: #bfbfbf;
 }
 
 .l-content-1 {

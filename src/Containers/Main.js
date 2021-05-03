@@ -9,24 +9,24 @@ const Main = () => {
   return (
     <div className="main">
       <div className="left-half">
-        <div className="l-content-1">My Twitter Dashboard</div>
+        <div className="l-content-1 big-label">My Twitter Dashboard</div>
         <div className="l-content-2 ">
           <div className="numbers">
-            <div>
-              Tweets <br />
-              1.663
+            <div className="lables">
+              <div className="small-label">Tweets</div>
+              <div className="big-label">1.663</div>
             </div>
-            <div>
-              Impressions <br />
-              1.663
+            <div className="lables">
+              <div className="small-label">Impressions</div>
+              <div className="big-label">138.303</div>
             </div>
-            <div>
-              Engagements <br />
-              1.663
+            <div className="lables">
+              <div className="small-label">Engagements</div>
+              <div className="big-label">19.316</div>
             </div>
-            <div>
-              Re-Tweets <br />
-              1.663
+            <div className="lables">
+              <div className="small-label">Re-Tweets</div>
+              <div className="big-label">1.351</div>
             </div>
           </div>
         </div>
